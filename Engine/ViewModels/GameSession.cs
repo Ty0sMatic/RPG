@@ -29,7 +29,7 @@ namespace Engine.ViewModels
             }
         }
 
-        public bool HasLocationtoNorth
+        public bool HasLocationToNorth
         {
             get
             {
@@ -37,7 +37,7 @@ namespace Engine.ViewModels
             }
         }
 
-        public bool HasLocationtoSouth
+        public bool HasLocationToSouth
         {
             get
             {
@@ -45,7 +45,7 @@ namespace Engine.ViewModels
             }
         }
 
-        public bool HasLocationtoEast
+        public bool HasLocationToEast
         {
             get
             {
@@ -53,7 +53,7 @@ namespace Engine.ViewModels
             }
         }
 
-        public bool HasLocationtoWest
+        public bool HasLocationToWest
         {
             get
             {
